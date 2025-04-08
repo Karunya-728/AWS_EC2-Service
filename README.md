@@ -1,7 +1,5 @@
 # AWS_EC2-Service
 
-🚀 Hello Connections ✨
-
 🚨 Excited to share my latest project on AWS platform, 
 The project implements a Remote Desktop by using AWS ☁.
 
